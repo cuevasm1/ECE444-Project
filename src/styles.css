@@ -1,0 +1,22 @@
+.App {
+  font-family: "Fredoka One", cursive;
+  text-align: center;
+  font-family: Fredoka One, cursive;
+  font-style: normal;
+  font-weight: normal;
+  color: #1c3e6f;
+}
+
+.bg-myBlue {
+  background-color: #1c3e6f;
+}
+
+.navbar {
+  align-items: "left";
+}
+
+.myButton {
+  background-color: #1c3e6f;
+  border: none;
+  color: white;
+}
